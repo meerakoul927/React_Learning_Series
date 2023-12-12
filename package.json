@@ -1,0 +1,25 @@
+{
+  "name": "react_folder",
+  "version": "1.0.0",
+  "description": "THIS IS REACT LEARNING SERIES",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meerakoul927/React_Learning_Series.git"
+  },
+  "keywords": [
+    "react",
+    "react-dom",
+    "meera",
+    "koul"
+  ],
+  "author": "Meera Koul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meerakoul927/React_Learning_Series/issues"
+  },
+  "homepage": "https://github.com/meerakoul927/React_Learning_Series#readme"
+}
